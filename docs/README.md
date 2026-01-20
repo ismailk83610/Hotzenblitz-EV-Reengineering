@@ -35,7 +35,7 @@ Re-Engineering Project.
   - Multi-channel oscilloscope timing analysis
 
 ### Task 3 – Deterministic Task Scheduling Using ePWM Events
-- File: `task1_adc_epwm_report.pdf`
+- File: `Task3_Task Management.pdf`
 - Description:
   - Asynchronous execution inside an infinite loop
   -Startup in IDLE mode
