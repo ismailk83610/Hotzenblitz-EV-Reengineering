@@ -34,6 +34,18 @@ Re-Engineering Project.
   - ADC sampling aligned to PWM timing
   - Multi-channel oscilloscope timing analysis
 
+### Task 3 – Deterministic Task Scheduling Using ePWM Events
+Asynchronous execution inside an infinite loop
+• Startup in IDLE mode
+• All initialization performed in IDLE
+• No PWM signal generation during IDLE
+• Generation of up to six independent PWM outputs
+• Identical switching frequency for all PWM channels
+• Switching frequency configured once in IDLE
+• Frequency range from 50 Hz to 50 kHz
+• Identical duty cycle for all PWM channels
+• Duty cycle initialized to 0% in IDLE
+• Duty cycle adjustable between 0% and 100% in RUN
 ---
 
 ## 📊 Timing Diagrams
